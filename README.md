@@ -29,7 +29,7 @@ FPGA Development • Verilog • Hardware Acceleration
 Strengthening my foundations in AI and data science while building scalable ML pipelines.
 
 ## Links
-LinkedIn • Portfolio • Email
+LinkedIn • https://www.linkedin.com/in/si-thu-tun-avionics/
 
 <!--
 **syrium/syrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
